@@ -1,0 +1,6 @@
+torch
+torchvision
+opencv-python
+ultralytics
+deep-sort-realtime
+scikit-learn
